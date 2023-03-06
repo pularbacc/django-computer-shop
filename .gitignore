@@ -1,0 +1,5 @@
+.Python
+venv/
+posts/
+__pycache__
+db.sqlite3
